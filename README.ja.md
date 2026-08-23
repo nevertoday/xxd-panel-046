@@ -1,0 +1,209 @@
+<p align="center">
+  <img src="./assets/banner.svg" alt="XXD Panel 046 プロジェクトバナー" width="1200">
+</p>
+
+<div align="center">
+
+# 🦁 XXD Panel 046
+
+### 写真を、明るく鮮やかで手で触れられそうな厚塗りの微縮風景へ
+
+[![Codex Skill](https://img.shields.io/badge/Codex-Skill-000000?style=flat-square)](./SKILL.md)
+[![Four Modes](https://img.shields.io/badge/Modes-4-d75d32?style=flat-square)](#4つの出力を支えるひとつの厚塗りロジック)
+[![Raster Output](https://img.shields.io/badge/Output-PNG-3c6f67?style=flat-square)](#境界と信頼性)
+
+<a href="README.md">简体中文</a> · <a href="README.en.md">English</a> · <strong>日本語</strong> · <a href="README.ko.md">한국어</a> · <a href="README.ar.md">العربية</a>
+
+</div>
+
+> 明るい白地 · 鮮やかな厚塗り · 微縮の実体感 · 斜めの色面 · 温かな光
+
+XXD Panel 046 は、Codex と互換 Agent のための画像生成 Skill です。写真から識別に必要な主体の個性を残し、絵の具の厚み、ペインティングナイフの跡、微縮の尺度感を備えた油彩の微景観へ再構成します。
+
+主体を支えるのは、元写真から導いた一本の斜めの色面です。周囲には温かみのある白い紙の余白を広く残し、色は明るく透き通り、生命感を持ちます。文字は後付けの大見出しではなく、美術出版物の繊細な注記のように扱います。
+
+## なぜ 046 が必要なのか
+
+一般的な「厚塗り風」は、写真全体に暗い油彩フィルターをかけるか、プラスチックの玩具のような主体を無関係なブラシストロークに載せるテンプレートになりがちです。
+
+046 は順序を逆にします。
+
+```text
+主体の個性を固定 → 斜めの支持面を導く → 本物の厚塗りを集中 → 元写真の色を明るくする → 温白の呼吸空間を残す → 繊細な編集文字を添える
+```
+
+無関係な写真に替えても微縮の主体、斜めの色面、配色、光、文字がほぼ成立するなら、それは 046 ではありません。
+
+## 046 のビジュアル契約
+
+- **識別できる微縮主体：** 元写真固有の手掛かりを最低3つ残し、角度や細部を整えても主体自体は置き換えません。
+- **一本の斜めの支持面：** 水面、地面、道、光帯、風景の断片になっても、元写真から導かれ、主体を本当に支える必要があります。
+- **本物の厚塗り素材：** 絵の具の盛り上がり、ナイフ痕、起伏のある端、紙肌、厚薄の対比を共存させます。
+- **元写真由来の明るい配色：** 写真の鮮やかな色を明るく澄ませますが、固定のキャンディカラーは当てません。
+- **広い温白の余白：** 画布を塗り尽くさず、紙、光、微縮の尺度感を呼吸させます。
+- **透き通る温かな光：** 晴れやかで軽やかな生命感を持たせ、暗褐色のフィルター、ネオン光、商業スタジオ風は避けます。
+- **美術出版物の文字：** 繊細で抑制され、紙にインクが吸われたような字形を、斜めの軸、主体の縁、または静かな余白に沿わせます。
+
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091337011403882991) · 2026年8月23日<br>
+> GPT2 × 厚塗り × 浮現 × 美学プロンプト × VOL.046<br>
+> 油彩の触感を持つ明るい厚塗り。色はより鮮やかに、主体は温白の紙と透明感のある斜めの色面からゆっくり浮かび上がるように現れます。
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="https://pbs.twimg.com/media/HQXrOaFb0AAgHbh.jpg?format=jpg&amp;name=large" alt="XXD Panel 046 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="https://pbs.twimg.com/media/HQXrSePaAAA9ZPO.jpg?format=jpg&amp;name=large" alt="XXD Panel 046 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="https://pbs.twimg.com/media/HQXrT6wa4AANlxa.jpg?format=jpg&amp;name=large" alt="XXD Panel 046 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="https://pbs.twimg.com/media/HQXrVbna4AAm6My.jpg?format=jpg&amp;name=large" alt="XXD Panel 046 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 046 の美学的動機を示すためのものです。作例の被写体、色面の方向、配色、文案、旧来の画面比率を生成参照や現在の既定値として固定することはありません。
+
+## 4つの出力を支えるひとつの厚塗りロジック
+
+4つのモードは単独でも複数でも選択できます。`1`、`1+3`、`1、2、4`、`全部` と返信すると、Skill が重複を除き 1→4 の順で実行します。各モードは別々のタスクフォルダに独立出力され、一覧画像にはまとめません。`全部` は元写真1枚につき7点（通常3モード各1点＋壁紙4点）です。サイズはモード名付きで同時指定でき、未指定の通常モードは元画像に適応します。文案は既定で選択モード間に共通し、モード別指定も可能です。
+
+| モード | サイズ方針 | 成果物 |
+| --- | --- | --- |
+| `top-bottom` | 元画像適応 | 上に完全な元写真、下に 046 の厚塗り微景観。両パネルは元画像サイズを保ち、厳密に 50/50 |
+| `left-right` | 元画像適応 | 左に完全な元写真、右に 046 の厚塗り微景観。両パネルは元画像サイズを保ち、厳密に 50/50 |
+| `design-only` | 元画像適応 | 元写真を見せず、変化デザインだけを表示。元画像の比率と寸法を維持 |
+| `wallpaper-pack` | 端末別4サイズ | スマートフォン、iPad、デスクトップ、子ども用ウォッチの PNG を個別出力 |
+
+優先順位は、正確な指定ピクセル > 指定比率／用途 > 通常モードの元画像適応です。原稿 `046.md` の 3:4 は初期の制作画角であり、現在の暗黙の既定値ではありません。
+
+ペアモードの写真は、抑制した調色と必要最小限の環境拡張だけで忠実さを保ちます。デザイン単独と壁紙では写真を根拠として使いますが、原片は表示しません。
+
+### 壁紙セット：連動または独立
+
+壁紙に暗黙のサイズ既定値はありません。一般プリセットはスマートフォン `1440×3200`、iPad `2048×2732`、デスクトップ `3840×2160`、ウォッチ `1024×1024`。端末別のカスタムサイズも指定できます。
+
+- **連動セット（推奨）：** まず iPad の基準作品を生成・承認し、残り3枚は元写真＋同じ基準作品を参照して各画面に再構成します。
+- **独立4作品：** 各端末は元写真だけを参照し、微縮主体の位置、斜めの色面、光の関係をより自由に探れます。
+
+連動は切り抜きではありません。4枚を個別に生成、構成、検査し、iPad→スマートフォン→デスクトップ→ウォッチの順に参照を連鎖させません。
+
+## 文字は美術出版物の一部にする
+
+生成前に、自動文案、カスタム文案、文字なしを選びます。文字を入れる場合は対象言語または地域も指定します。
+
+自動文案は、主体の個性、分かっている場所、目に見える空気感、または写真に根拠のある象徴性から、短いタイトルを抽出します。温かく詩的でも構いませんが、語呂合わせや反転、統一された「なるほど感」を強制しません。
+
+既定はタイトル1本です。実際に情報価値がある場合だけ0〜2本の短い注記を追加し、洗練されて見せるためだけに番号、年、座標、アーカイブラベルを創作しません。
+
+ユーザーが完成稿を渡した場合は一字一句保ちます。方向や編集可能な草稿の場合だけ、対象、目的、必須語、語調、含意を守りながら磨きます。
+
+言語は命令文ではなく、想定する読者に従います。
+
+```text
+対象市場・読者 > 指定された成果物言語 > 方向指示の言語；不明なら生成前に確認
+```
+
+日本版は自然な現代日本語、韓国向けは自然な韓国語と正しい分かち書き、英国版は英国英語、アラビア語版は原則として自然な現代標準アラビア語と正しい右から左の組版を使います。外見、服装、風景、看板から国籍を推測せず、雰囲気づくりの偽外国語も使いません。
+
+## 正確な幾何はコード、作品は画像生成
+
+画像モデルが微縮主体、斜めの支持面、本物の厚塗り、透き通る光、余白、文字を作ります。`scripts/compose_panel.py` は画布計画、厳密な 50/50 ラスター合成、最終寸法、監査だけを担当し、プログラム描画で作品を偽装しません。
+
+```bash
+python3 scripts/compose_panel.py --plan --layout top-bottom --source photo.png
+python3 scripts/compose_panel.py --plan --layout left-right --size 2560x1440
+python3 scripts/compose_panel.py --audit result.png --layout design-only --size 2048x2048
+```
+
+正確な上下構成は総高さ、左右構成は総幅が偶数である必要があります。指定ピクセルは勝手に変更されません。
+
+## 使い始める
+
+```bash
+git clone https://github.com/nevertoday/xxd-panel-046.git
+mkdir -p ~/.codex/skills
+ln -s "$(pwd)/xxd-panel-046" ~/.codex/skills/xxd-panel-046
+```
+
+Claude Code では同じフォルダを `~/.claude/skills/xxd-panel-046` にリンクできます。インストール後に Agent セッションを再起動してください。
+
+```text
+$xxd-panel-046
+この写真を左右二連にしてください。文案は写真の意味から作り、自然な韓国語を使ってください。
+```
+
+写真だけでも呼び出せます。番号付きの複数行メニューでモードと文字設定を確認し、壁紙では連動／独立と端末サイズも確認します。
+
+詳細仕様：
+
+- [Skill ワークフロー](SKILL.md)
+- [中国語の完全プロンプト](references/xxd-panel-046-prompt.zh-CN.md)
+- [英語の完全プロンプト](references/xxd-panel-046-prompt.en.md)
+- [元のスタイル指示](references/046-source.md)
+
+## 境界と信頼性
+
+- 各写真は独立したタスク内だけで使い、他の入力、旧成果物、作例の主題、色、文案、構図を借りません。
+- 呼び出すたびに新しいタスクフォルダを作り、同じ原画像と条件でも新たに生成します。
+- 成果物は PNG ビットマップであり、SVG、HTML、Canvas、プログラム描画の代替物ではありません。
+- 設定済みビットマップブリッジは匿名化した状態だけを返し、プロバイダー、エンドポイント、ヘッダー、認証情報、プロンプト、応答本文を表示しません。
+- 選択した通常モードごとに1点を返し、`wallpaper-pack` を選ぶと独立壁紙4点を追加します。`全部` は元写真1枚につき7点を4つの同階層モードフォルダへ出力し、一覧コラージュにはまとめません。
+
+ローカル合成には Python 3 と Pillow が必要です。安全なビットマップブリッジは Python 3.11+ の `tomllib` を使用します。画像生成には、ホスト Agent の内蔵ラスター生成機能または設定済みの互換ルートが必要です。
+
+## リポジトリ
+
+```text
+xxd-panel-046/
+├── SKILL.md
+├── README.md / README.en.md / README.ja.md / README.ko.md / README.ar.md
+├── agents/openai.yaml
+├── assets/banner.svg + examples/（今後のローカル作例用）
+├── scripts/compose_panel.py + configured_imagegen.py
+└── references/xxd-panel-046-prompt.zh-CN.md + xxd-panel-046-prompt.en.md + 046-source.md
+```
+
+## XXD について
+
+XXD は小小東（Xiaoxiaodong）のブランド名の略称です。このプロジェクトは [@xiaoxiaodong01](https://x.com/xiaoxiaodong01) が制作・管理しています。
+
+## サポートと会員制度
+
+### 個別深度相談 · 1時間 CNY 299
+
+Skills 利用に関する一対一相談は1時間 CNY 299です。下の WeChat QR コードから予約してください。
+
+### Xiaoxiaodong Skills ユーザー交流グループ · CNY 99
+
+一度 CNY 99 を支払うと、ワークフロー共有、作品相談、ユーザー同士の支援を行う交流グループに参加できます。時間制の個別相談は含まれません。
+
+### 知識星球＋会員プロンプトライブラリ · 年額 CNY 699
+
+[知識星球](https://wx.zsxq.com/group/15554814142882)と[XXD 会員プロンプトライブラリ](https://vip.xiaoxiaodong.ai/)は同じ会員権です。**一度の年額決済で両方を利用でき、二重の購入は不要です。**
+
+1. 知識星球で加入後、WeChat でプロンプトライブラリの交換コードを受け取る。
+2. プロンプトライブラリで加入後、WeChat で知識星球への招待を受け取る。
+
+<p align="center">
+  <a href="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png"><img src="https://xiaoxiaodong.pages.dev/assets/wechat-qr.png" alt="XXD 有料サービス WeChat QR コード" width="320"></a>
+</p>
+
+<div align="center">
+
+**写真の個性を残し、絵の具・紙・光の中からもう一度浮かび上がらせる。**
+
+</div>
+
+---
+
+<div align="center">
+  <h2>☕ オープンソースプロジェクトを支援</h2>
+  <p>このプロジェクトが時間の節約になったなら、Star、共有、コーヒー一杯で継続を支援できます。</p>
+  <table><tr><td align="center" width="240">
+    <a href="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true"><img src="https://github.com/nevertoday/zhongguo-traditional-colors/blob/main/docs/images/buy-me-a-coffee-qr.png?raw=true" alt="Buy Me a Coffee で Xiaoxiaodong を支援" width="180"></a><br>
+    <strong>Buy me a coffee</strong><br><sub>QR コードを読み取るか開いて支援できます</sub>
+  </td></tr></table>
+  <p><sub>支援は任意であり、このオープンソースプロジェクトの利用権には影響しません。</sub></p>
+</div>
