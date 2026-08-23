@@ -7,6 +7,8 @@ description: "Create XXD Panel 046 artwork from supplied photos in four independ
 
 Turn each supplied photograph into finished editorial artwork. Preserve the real photograph only in paired modes; every transformed frame must rebuild the same source as a luminous, tactile impasto miniature carried by one source-derived diagonal field on bright textured paper.
 
+Operational rules follow the shared XXD Panel workflow contract: four combinable modes; source-adaptive ordinary canvases; exact 50/50 paired geometry; linked or independent four-device wallpapers; copy and locale preflight; fresh generation jobs; privacy-preserving raster generation; and one fresh task directory per source and mode. Style-specific sections may refine aesthetics, copy hierarchy, and acceptance criteria but never override this contract.
+
 ## Non-negotiable contract
 
 - One source photo may be processed in one or more selected modes. Each selected ordinary mode (`top-bottom`, `left-right`, `design-only`) produces one PNG; selected `wallpaper-pack` produces exactly four separate PNGs. Selecting all four modes therefore produces seven final files per source. Keep every mode in its own task directory and never combine modes, sources, or wallpapers into a grid, contact sheet, or overview.
@@ -262,6 +264,12 @@ Before accepting each result verify:
 - Typography reads as delicate art-publication annotation aligned with the diagonal field, subject edge, or quiet margin. It uses lightly absorbed ink or dry letterpress character and never looks like a generic bold poster title, handwritten doodle, UI label, or detachable digital overlay.
 - Every wallpaper is separately recomposed, respects safe regions, contains no system UI, and is not a crop of another device result. A linked pack shares one family without drifting from the source.
 - Every delivered PNG was newly generated for this invocation and lives in its fresh task directory.
+
+## Override policy
+
+Preserve user-specified source, mode set, output count, dimensions, target locale, copy mode, and exact finished wording. Priority is explicit text-free request > exact user wording > editable user direction > source-derived automatic copy. Exact pixels override ratio or destination; ratio or destination overrides source adaptation. A labelled wallpaper size overrides only that device.
+
+User instructions may change subject emphasis, tone, support-field direction, or copy within 046, but do not silently relax one-photo isolation, exact paired geometry, four separate wallpaper outputs, fresh-task generation, source-hidden output rules, or native-language typography. Leave the recognisable-impasto-miniature-plus-diagonal-field aesthetic only when the user explicitly asks to leave the 046 style.
 
 ## Provenance boundary
 
