@@ -52,12 +52,12 @@ XXD Panel 046은 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 
 <table>
   <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="https://pbs.twimg.com/media/HQXrOaFb0AAgHbh.jpg?format=jpg&amp;name=large" alt="XXD Panel 046 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="https://pbs.twimg.com/media/HQXrSePaAAA9ZPO.jpg?format=jpg&amp;name=large" alt="XXD Panel 046 예시 2"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 046 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 046 예시 2"></a></td>
   </tr>
   <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="https://pbs.twimg.com/media/HQXrT6wa4AANlxa.jpg?format=jpg&amp;name=large" alt="XXD Panel 046 예시 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="https://pbs.twimg.com/media/HQXrVbna4AAm6My.jpg?format=jpg&amp;name=large" alt="XXD Panel 046 예시 4"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 046 예시 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 046 예시 4"></a></td>
   </tr>
 </table>
 
