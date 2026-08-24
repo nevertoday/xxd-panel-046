@@ -22,6 +22,27 @@ XXD Panel 046은 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 
 주제를 받치는 것은 원본에서 파생한 하나의 대각선 색면입니다. 주변에는 따뜻한 미백색 종이의 여백을 넉넉히 남기고, 색은 밝고 투명하며 생명력을 가집니다. 타이포는 뒤에 붙인 굵은 헤드라인이 아니라 정교한 미술 출판물의 세련된 주석처럼 다룹니다.
 
+## 예시 · X에서
+
+> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091337011403882991) · 2026년 8월 23일<br>
+> GPT2 × 임파스토 × 떠오르는 형상 × 미학 프롬프트 × VOL.046<br>
+> 유화의 촉감을 품은 밝은 임파스토 스타일입니다. 색은 더 생생하고, 주제는 따뜻한 백색 종이와 투명한 대각선 색면에서 천천히 떠오르는 듯 보입니다.
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 046 예시 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 046 예시 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 046 예시 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 046 예시 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991">원문 게시물과 전체 프롬프트 보기 →</a></p>
+
+이 예시는 046의 미학적 동기를 보여 주기 위한 것입니다. 예시의 피사체, 색면 방향, 팔레트, 문구, 이전 화면 비율을 생성 참조나 현재 기본값으로 고정하지 않습니다.
+
 ## 왜 046이 필요한가요
 
 일반적인 ‘임파스토 스타일’은 사진 전체에 어두운 유화 필터를 씌우거나, 플라스틱 장난감처럼 보이는 주제를 원본과 무관한 붓 자국 위에 올리는 템플릿으로 쉽게 무너집니다.
@@ -43,27 +64,6 @@ XXD Panel 046은 Codex와 호환 에이전트를 위한 이미지 생성 Skill�
 - **넓고 따뜻한 백색 여백:** 화면을 가득 칠하지 않고 종이, 빛, 미니어처 스케일이 함께 호흡하게 합니다.
 - **맑고 따뜻한 조명:** 화창하고 경쾌하며 생기 있게 만들고, 갈색 유화 필터·네온 광효과·상업 스튜디오 분위기는 피합니다.
 - **미술 출판물 타이포:** 가늘고 절제되며 종이에 잉크가 살짝 스민 듯한 글자를 대각선 축, 주제 가장자리 또는 고요한 여백에 배치합니다.
-
-## 예시 · X에서
-
-> [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091337011403882991) · 2026년 8월 23일<br>
-> GPT2 × 임파스토 × 떠오르는 형상 × 미학 프롬프트 × VOL.046<br>
-> 유화의 촉감을 품은 밝은 임파스토 스타일입니다. 색은 더 생생하고, 주제는 따뜻한 백색 종이와 투명한 대각선 색면에서 천천히 떠오르는 듯 보입니다.
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 046 예시 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 046 예시 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 046 예시 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 046 예시 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991">원문 게시물과 전체 프롬프트 보기 →</a></p>
-
-이 예시는 046의 미학적 동기를 보여 주기 위한 것입니다. 예시의 피사체, 색면 방향, 팔레트, 문구, 이전 화면 비율을 생성 참조나 현재 기본값으로 고정하지 않습니다.
 
 ## 원본 프롬프트가 유일한 미적 기준입니다
 

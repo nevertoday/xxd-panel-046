@@ -22,6 +22,27 @@ XXD Panel 046 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 
 主体由一条源图推导出的斜向色带承托，周围保留大面积暖白纹理纸面；色彩明亮、清透、有生命力，文字则像艺术出版物中的精致标注，而不是后贴的大标题。
 
+## 样张 · 来自 X
+
+> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091337011403882991) · 2026 年 8 月 23 日<br>
+> GPT2 × 厚涂 × 浮现 × 美学提示词 × VOL.046<br>
+> 一套带有油画触感的明亮厚涂风格：颜色更鲜活，主体像从暖白纸面与清透色带中慢慢浮现。
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 046 样张 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 046 样张 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 046 样张 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 046 样张 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991">查看原推文与完整提示词 →</a></p>
+
+这些样张用于展示 046 的美学动机，不会把样张中的主体、色带方向、配色、文案或旧画幅变成生成参考或当前默认值。
+
 ## 为什么需要 046
 
 普通“厚涂风”很容易退化成两种模板：把整张照片套上暗沉油画滤镜，或把主体做成塑料玩具，再放到一条与原图无关的彩色笔刷上。
@@ -43,27 +64,6 @@ XXD Panel 046 是一个面向 Codex 与兼容 Agent 的图像生成 Skill。它�
 - **大面积暖白留白：** 让纸面、光线和微缩尺度共同呼吸，不把整张画布涂满。
 - **清透温暖光感：** 晴朗、轻快、有生命力，不做暗褐滤镜、荧光光效或商业棚拍。
 - **艺术出版物文字：** 使用精细、克制、略带纸面吸墨感的编辑字体，沿斜向轴、主体边缘或安静白边排布。
-
-## 样张 · 来自 X
-
-> [小小东（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091337011403882991) · 2026 年 8 月 23 日<br>
-> GPT2 × 厚涂 × 浮现 × 美学提示词 × VOL.046<br>
-> 一套带有油画触感的明亮厚涂风格：颜色更鲜活，主体像从暖白纸面与清透色带中慢慢浮现。
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 046 样张 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 046 样张 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 046 样张 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 046 样张 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991">查看原推文与完整提示词 →</a></p>
-
-这些样张用于展示 046 的美学动机，不会把样张中的主体、色带方向、配色、文案或旧画幅变成生成参考或当前默认值。
 
 ## 原始提示词优先，而不是二次导演
 

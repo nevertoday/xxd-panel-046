@@ -22,6 +22,27 @@ XXD Panel 046 は、Codex と互換 Agent のための画像生成 Skill です�
 
 主体を支えるのは、元写真から導いた一本の斜めの色面です。周囲には温かみのある白い紙の余白を広く残し、色は明るく透き通り、生命感を持ちます。文字は後付けの大見出しではなく、美術出版物の繊細な注記のように扱います。
 
+## 作例 · X より
+
+> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091337011403882991) · 2026年8月23日<br>
+> GPT2 × 厚塗り × 浮現 × 美学プロンプト × VOL.046<br>
+> 油彩の触感を持つ明るい厚塗り。色はより鮮やかに、主体は温白の紙と透明感のある斜めの色面からゆっくり浮かび上がるように現れます。
+
+<table>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 046 作例 1"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 046 作例 2"></a></td>
+  </tr>
+  <tr>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 046 作例 3"></a></td>
+    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 046 作例 4"></a></td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991">元の投稿と完全なプロンプトを見る →</a></p>
+
+これらの作例は 046 の美学的動機を示すためのものです。作例の被写体、色面の方向、配色、文案、旧来の画面比率を生成参照や現在の既定値として固定することはありません。
+
 ## なぜ 046 が必要なのか
 
 一般的な「厚塗り風」は、写真全体に暗い油彩フィルターをかけるか、プラスチックの玩具のような主体を無関係なブラシストロークに載せるテンプレートになりがちです。
@@ -43,27 +64,6 @@ XXD Panel 046 は、Codex と互換 Agent のための画像生成 Skill です�
 - **広い温白の余白：** 画布を塗り尽くさず、紙、光、微縮の尺度感を呼吸させます。
 - **透き通る温かな光：** 晴れやかで軽やかな生命感を持たせ、暗褐色のフィルター、ネオン光、商業スタジオ風は避けます。
 - **美術出版物の文字：** 繊細で抑制され、紙にインクが吸われたような字形を、斜めの軸、主体の縁、または静かな余白に沿わせます。
-
-## 作例 · X より
-
-> [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091337011403882991) · 2026年8月23日<br>
-> GPT2 × 厚塗り × 浮現 × 美学プロンプト × VOL.046<br>
-> 油彩の触感を持つ明るい厚塗り。色はより鮮やかに、主体は温白の紙と透明感のある斜めの色面からゆっくり浮かび上がるように現れます。
-
-<table>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-01.jpg" alt="XXD Panel 046 作例 1"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-02.jpg" alt="XXD Panel 046 作例 2"></a></td>
-  </tr>
-  <tr>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-03.jpg" alt="XXD Panel 046 作例 3"></a></td>
-    <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-04.jpg" alt="XXD Panel 046 作例 4"></a></td>
-  </tr>
-</table>
-
-<p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991">元の投稿と完全なプロンプトを見る →</a></p>
-
-これらの作例は 046 の美学的動機を示すためのものです。作例の被写体、色面の方向、配色、文案、旧来の画面比率を生成参照や現在の既定値として固定することはありません。
 
 ## 原文プロンプトを唯一の美的基準にする
 
