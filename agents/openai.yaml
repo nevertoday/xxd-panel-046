@@ -1,4 +1,4 @@
 interface:
-  display_name: "xxd-panel-046"
+  display_name: "/xxd-panel-046"
   short_description: "Create bright impasto miniature art and wallpaper packs."
   default_prompt: "Use $xxd-panel-046 to ask for one or more modes and the copy/language preference, preserve source-adaptive dimensions unless I specify per-mode sizes, then rebuild each photo as a luminous impasto miniature on one source-derived diagonal field."
