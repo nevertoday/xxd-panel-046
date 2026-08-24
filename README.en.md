@@ -43,7 +43,18 @@ A single diagonal field, derived from the source, supports the subject. Warm-whi
 
 These samples demonstrate the 046 aesthetic motive. Their subjects, field direction, palette, copy, and earlier canvas ratio never become generation references or current defaults.
 
-## Why it exists
+<!-- xxd-panel-benefit:start -->
+## Quick fit check: is XXD Panel 046 right for you?
+
+| What you need to know | What this style gives you |
+|---|---|
+| **What you will get** | Rebuild a photograph as a bright, vivid, tactile impasto micro-landscape |
+| **Recognizable signature** | BRIGHT GROUND · VIVID IMPASTO · MINIATURE VOLUME · DIAGONAL FIELD · WARM LIGHT |
+| **How it respects your source** | Recognizable identity, relationships, structure, and supplied facts stay anchored. Styling reorganizes the visual language instead of replacing your content with an unrelated template. |
+| **Where you can use it** | Create top-bottom, left-right, design-only, and four-device wallpaper outputs in multiple ratios or exact sizes. Delivery changes; the Panel's style identity does not get diluted. |
+<!-- xxd-panel-benefit:end -->
+
+## How it turns your source into a distinctive result
 
 “Impasto style” easily collapses into one of two templates: a murky oil-paint filter over the whole photograph, or a plastic-looking subject placed on an arbitrary brushstroke.
 
@@ -55,7 +66,7 @@ lock subject identity → derive one diagonal support field → concentrate genu
 
 If an unrelated photograph could replace the source without materially changing the miniature subject, diagonal field, palette, light, or copy, the result is not 046.
 
-## The 046 visual contract
+## What makes the finished style recognizable
 
 - **Recognisable miniature subject:** retain at least three source-specific identity cues; improve angle and detail without replacing the subject.
 - **One diagonal support field:** it may become water, ground, a path, a band of light, or a landscape slice, but it must derive from the source and genuinely carry the subject.
