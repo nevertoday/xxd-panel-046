@@ -1,115 +1,79 @@
-# XXD Panel 046 · Bright Impasto Micro-Landscape Generation Core
+# XXD Panel 046 | Runtime Adapter (English)
 
-## Runtime complete-canvas contract — highest priority
+This is not a second aesthetic prompt. Read and use `references/046-source.md` in full and verbatim before generation; it is the sole creative and aesthetic authority for Panel 046. This file only appends the current user's runtime variables.
 
-- `TOP_BOTTOM` and `LEFT_RIGHT` default to one complete finished generation using the current source as a high-fidelity edit/reference input. Do not pre-split the job into photographic and design halves.
-- Top-bottom keeps the faithful source in approximately the upper 50% and performs this style transformation below; left-right uses the faithful source in approximately the left 50% and the transformation on the right. Unify both regions through colour, light, rhythm, typography, and meaning.
-- `DESIGN_ONLY` and `WALLPAPER_PACK` use the complete canvas while the source remains an invisible identity/content reference. Recompose every wallpaper separately for its device.
-- `FINAL CANVAS` means the ratio/pixels of the whole finished artwork and must be explicitly resolved before generation; never apply source dimensions silently. `DESIGN FRAME` is used only if a failed complete-canvas retry triggers deterministic composition fallback.
-- Retry a failed complete canvas once against the failed constraint only. Scripted composition is allowed only after that retry still fails, when pixel-identical source preservation is explicitly required, when the active route cannot realise the canvas, or for lossless pixel calibration.
+## Non-authoring boundary
 
-### Model priority and credentials
+- Do not summarize, translate, expand, polish, or “improve” the source brief.
+- Do not add a palette plan, material plan, composition theory, whitespace rule, title, microcopy package, or aesthetic motive.
+- Preserve the source brief's own colour behaviour exactly, whether it derives colour from the photograph or specifies a fixed family.
+- Let the image model execute the source brief's existing text logic. The outer Skill does not pre-write copy.
+- Current modes and sizes override only the legacy 3:4 top-bottom container, never the remaining aesthetic rules.
 
-- **Prefer GPT Image 2.** When GPT Image 2 is available through the current built-in image tool or a configured compatible route, use it first for the high-fidelity reference/edit and complete-canvas generation required by this prompt.
-- Also support Seedance 5.0 Pro, Nano Banana Pro (Gemini Image Pro), Nano Banana 2 (Gemini Image Flash), or another compatible bitmap model only when the actual route can preserve the source, realise the whole finished canvas, render the target-language text, and accept the multiple references needed by a linked wallpaper pack.
-- An alternative model changes only the generation route. It must not change this prompt's modes, canvas, source visibility, copy, locale, wallpaper relationship, or complete-canvas-first / composition-fallback-only logic. Do not silently downgrade a hard requirement.
-- If no suitable route is available, ask the user to enable an image-generation tool or provide an API key. User-provided credentials may be used for the current task, but never echo, display, log, or expose their value in chat, prompts, or diagnostics. Do not persist them or modify global route configuration unless explicitly requested.
-- Judge availability by actual image capability, not by a provider name or one missing environment variable.
+## Append-only runtime template
 
-Treat the one currently selected photograph as the sole content source. Never borrow subjects, composition, colour, or copy from samples, other inputs, or historical outputs.
+```text
+RUNTIME OVERRIDE — CURRENT DELIVERY ONLY
 
-Generate only the currently resolved **transformed design frame**: below the photograph in top-bottom mode, right of it in left-right mode, or filling the complete canvas in design-only and wallpaper outputs. Never render another photo panel, seam, border, device mockup, or reserved photographic area inside this frame.
+The original brief's initial 3:4 top-bottom arrangement is its legacy presentation container.
+For this output, override only: final canvas, source/design-region placement,
+source visibility, and device dimensions.
+Except for those container variables, every design-transformation, composition,
+colour, material, whitespace, text-character and typography instruction in the
+original brief remains authoritative.
 
-## 0. Immutable aesthetic motive
+Interpret “upper photo” as SOURCE REFERENCE.
+Interpret “lower half” as DESIGN REGION.
 
-Every transformed frame must express:
+OUTPUT MODE: TOP_BOTTOM | LEFT_RIGHT | DESIGN_ONLY | WALLPAPER_PACK
+FINAL CANVAS: <ratio and/or exact WIDTHxHEIGHT>
+DEVICE PROFILE: NONE | PHONE | IPAD | DESKTOP | WATCH
+SOURCE VISIBILITY: UPPER HALF | LEFT HALF | REFERENCE ONLY — NOT VISIBLE
+DESIGN REGION: LOWER HALF | RIGHT HALF | FULL CANVAS
+PAIRED RELATION: FOLLOW THE ORIGINAL BRIEF'S PAIRED-PROPORTION RULE | NOT APPLICABLE
+WALLPAPER RELATIONSHIP: NONE | INDEPENDENT | LINKED
 
-**this exact recognisable photographed subject or inseparable relationship → a refined tactile miniature with real oil-paint thickness → one source-derived diagonal support field → bright life-bearing colour with clear provenance → transparent-feeling warm light → a majority of warm-white textured paper → delicate art-publication typography composed with the diagonal field**.
+Colour follows the original brief's existing colour instructions exactly.
+Unless the user explicitly requests a colour change, do not add, replace,
+summarize, or re-plan any palette.
+```
 
-This is not a photo filter, generic oil-paint conversion, complete landscape painting, toy model, or subject pasted onto a stock paint swash. If an unrelated source could replace the photograph without materially changing the miniature, diagonal field, palette, light, or copy, the result has failed.
+Append exactly one text block after the runtime block. If the user has other explicit requirements, append those verbatim after the text block at the very end.
 
-## 1. Lock source facts first
+### Text generated from the original prompt
 
-Privately determine:
+```text
+TEXT MODE: ORIGINAL_PROMPT_GENERATED
+TEXT LANGUAGE: <user-confirmed language or locale>
 
-1. The one principal subject or genuinely inseparable relationship.
-2. At least three source-specific identity cues across contour, pose/orientation, proportion, material, colour, opening, connection, overlap, negative shape, or relational distance.
-3. The visible basis for a support field: water, ground, road, path, light, motion direction, terrain, or spatial relation.
-4. The source's brightest, freshest, most life-bearing colours rather than an average palette.
-5. Light direction, where impasto should concentrate, and where thin paint or bare paper must remain.
+The image model generates wording by following the original brief's existing
+text-generation logic. The outer Skill supplies no title, microcopy, copy
+package, or additional semantic framework.
+```
 
-Never invent biography, place, event, ownership, emotion, or symbolism. Use a place in copy only when the user supplies it or the evidence is reliable.
+### User-exact text
 
-## 2. Recognisable impasto miniature
+```text
+TEXT MODE: USER_EXACT
+TEXT LANGUAGE: <user-confirmed language or locale>
+TEXT: “<user's exact characters>”
 
-- Rebuild the subject as a refined, dimensional, touchable micro-landscape entity while preserving identity and defining proportion.
-- Optimise viewpoint, scale, and secondary detail only for miniature legibility; never replace the subject, alter a person's identity, or lose the key relationship.
-- People preserve pose, orientation, and broad clothing shape; animals preserve body rhythm and head direction; plants preserve growth direction and mass; architecture preserves skyline, openings, and defining structure; objects and vehicles preserve functional silhouette, negative shape, and direction; natural scenes preserve one specific terrain, body of water, cloud, tree, or recognisable relation.
-- Keep one principal focus. Sparse secondary natural imagery serves space, light, or scale and never becomes a second complete landscape.
-- Create miniature scale through proportion, pigment thickness, selective shadow, and spatial relation—not a toy plinth, packaging box, display stand, or plastic finish.
+Use the supplied text verbatim. Do not rewrite, translate, spell-correct, or add
+any other wording. Typography and placement still follow the original brief.
+```
 
-## 3. One diagonal support field and generous whitespace
+### No text
 
-- Use one centred or slightly off-centre diagonal axis. Derive its direction from source movement, terrain, path, light, or spatial relationship.
-- Carry the subject on one transparent-feeling but materially impasto colour field. It may become water, ground, path, light, or one abstract landscape slice only when it clearly touches or supports the subject.
-- Never repeat a meaningless stock arc, wave, or ribbon across unrelated sources.
-- Preserve a majority of bright warm-white textured paper. Whitespace is light and breathing room; do not fill it with gradients, noise, or decoration.
-- Reflection, ripple, glint, extended strokes, impasto cloud, sun, or mist is optional and sparse. Render it only when the source gives it a job.
+```text
+TEXT MODE: NONE
+Render no letters, characters, numbers, titles, labels, logos, or pseudo-text anywhere.
+```
 
-## 4. Impasto oil paint × miniature object × luminous light
+See `SKILL.md` for preflight, multi-size, multi-mode, wallpaper, execution, and output rules. Every final generation request has this order:
 
-- Show pigment build-up, palette-knife ridges, layered colour, broken raised edges, paper tooth, scraped transitions, and semi-hand-shaped irregularity.
-- Concentrate thick paint on the miniature, support field, sparse clouds, and selected highlights. Preserve thin or bare paper passages so thickness has visible contrast.
-- Keep edges irregular and materially painted while the overall result remains refined, light, and clean.
-- Volume must feel like oil colour rising from paper, never smooth 3D modelling, resin, ceramic glaze, clay, plastic collectible, or studio product render.
-- Light stays clear, warm, and breathable. Sun-like sparkle is allowed; lens flare, neon glow, chrome, glassmorphism, and hard commercial studio lighting are not.
-
-## 5. Bright source-derived colour
-
-- Select the source's freshest principal colour and a few supporting hues. Raise lightness, clarity, and warm/cool definition without severing provenance.
-- Clear sky blue, lake cyan, tender green, warm yellow, coral orange, and peach pink are possible roles, never a fixed palette.
-- Use abundant clean warm white. A small warm-orange, gold, or pink accent may behave like sunlight only when supported by the source.
-- The spirit is sunny, vivid, warm, light, and alive without becoming piercing or cheap.
-- Reject muddy grey, aged varnish, sepia, low-energy Morandi muting, cold tech blue, fluorescence, rainbow gradients, and candy-toy colour.
-
-## 6. Typography specific to 046
-
-Type is a **delicate annotation in an art publication**—not a generic bold poster headline, archival data wall, modernist black title, handwritten doodle, or UI label.
-
-### Copy
-
-- Automatic copy derives one concise title from subject identity, a known place, visible atmosphere, or grounded symbolism.
-- Keep it bright, restrained, warm, and optionally poetic. Do not force a pun, reversal, or “moment of recognition”.
-- Default to one title. Add zero to two very short notes only when they carry real information. Never invent years, serials, coordinates, or archive labels merely to decorate.
-- Apply the unrelated-image swap test and rewrite generic titles such as “LIGHT / DREAM / JOURNEY / MEMORY”.
-- Preserve finished user wording verbatim. Refine a direction or draft only within permission.
-
-### Type direction
-
-- **Role:** art-publication annotation that calibrates miniature scale and whitespace.
-- **Voice:** luminous, precise, quiet, warm, and refined.
-- **Construction:** light-to-regular editorial strokes, generous controlled spacing, one compact title, and at most two smaller notes. Do not force one fixed size ratio onto every script or device.
-- **Placement:** align with the diagonal support, subject edge, or one quiet white margin. Respect semantic phrase breaks and never scatter type as decoration.
-- **Material:** lightly absorbed ink or dry letterpress on textured paper—accurate and readable, never a glossy digital overlay.
-- **Script:** use a native editorial equivalent for the resolved locale. Chinese and Japanese may use refined Song/Ming or restrained humanist Gothic treatment; Korean uses natural contemporary Hangul and correct spacing; Arabic uses correctly connected readable editorial forms and RTL composition; Latin scripts use an elegant light humanist sans or restrained contemporary serif according to the title. Never fake another writing system.
-
-The photographic panel contains no typography. Text-free mode contains no letters, characters, numbers, or pseudo-text anywhere in the transformed frame.
-
-## 7. Current mode and wallpaper
-
-The caller appends the one resolved current mode, exact dimensions, source visibility, and locked copy after this prompt. Execute only those values and never choose another mode.
-
-- Design-only and wallpaper contain no source photo, seam, or photographic placeholder.
-- Recompose every wallpaper for its target aspect. Keep system-UI zones low-information and render no clock, icons, dock, controls, or device frame.
-- In linked wallpaper, the source locks identity and content while the approved anchor locks only bright palette, impasto grammar, diagonal support, light, whitespace, and typography. Never resize mechanically or chain derivatives.
-
-## 8. Pre-generation check
-
-1. At least three source-specific cues keep the subject recognisable.
-2. One evidence-led diagonal field supports the miniature and is not a stock paint ribbon.
-3. Real pigment thickness has thin/thick contrast and never looks like plastic, clay, or smooth CGI.
-4. A majority of the frame remains bright warm-white textured paper—light but not empty.
-5. Colour is bright, vivid, warm, and source-derived without mud, sepia, fluorescence, or cheap candy styling.
-6. Copy is accurate; type unmistakably belongs to refined 046 art-publication design and participates in the diagonal composition or quiet margin.
-7. Mode, size, source visibility, wallpaper safe areas, and copy obey the appended values.
-8. There is no overview collage, logo, watermark, UI, mockup, second focus, or unrelated decoration.
+```text
+complete verbatim 046-source.md
++ current runtime override block
++ exactly one text-mode block
++ any other explicit user requirement, verbatim, at the very end
+```
