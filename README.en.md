@@ -16,17 +16,7 @@
 
 </div>
 
-> BRIGHT GROUND · VIVID IMPASTO · MINIATURE VOLUME · DIAGONAL FIELD · WARM LIGHT
-
-XXD Panel 046 is an image-generation Skill for Codex and compatible agents. It preserves a recognisable subject from the photograph, then rebuilds it as an oil-painted miniature with palpable paint depth, palette-knife marks, and a convincing small-scale presence.
-
-A single diagonal field, derived from the source, supports the subject. Warm-white textured paper remains open around it; colour is luminous, clear, and alive, while type behaves like a refined annotation in an art publication rather than a headline pasted on afterwards.
-
 ## Samples · From X
-
-> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091337011403882991) · 23 August 2026<br>
-> GPT2 × impasto × emerging forms × aesthetic prompt × VOL.046<br>
-> A luminous impasto treatment with an oil-painted touch: fresher colour, tactile miniature volume, and subjects that seem to emerge from warm-white paper and a clear diagonal field.
 
 <table>
   <tr>
@@ -39,9 +29,19 @@ A single diagonal field, derived from the source, supports the subject. Warm-whi
   </tr>
 </table>
 
+> [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091337011403882991) · 23 August 2026<br>
+> GPT2 × impasto × emerging forms × aesthetic prompt × VOL.046<br>
+> A luminous impasto treatment with an oil-painted touch: fresher colour, tactile miniature volume, and subjects that seem to emerge from warm-white paper and a clear diagonal field.
+
 <p align="center"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991">View the original post and full prompt →</a></p>
 
 These samples demonstrate the 046 aesthetic motive. Their subjects, field direction, palette, copy, and earlier canvas ratio never become generation references or current defaults.
+
+> BRIGHT GROUND · VIVID IMPASTO · MINIATURE VOLUME · DIAGONAL FIELD · WARM LIGHT
+
+XXD Panel 046 is an image-generation Skill for Codex and compatible agents. It preserves a recognisable subject from the photograph, then rebuilds it as an oil-painted miniature with palpable paint depth, palette-knife marks, and a convincing small-scale presence.
+
+A single diagonal field, derived from the source, supports the subject. Warm-white textured paper remains open around it; colour is luminous, clear, and alive, while type behaves like a refined annotation in an art publication rather than a headline pasted on afterwards.
 
 <!-- xxd-panel-benefit:start -->
 ## Quick fit check: is XXD Panel 046 right for you?
