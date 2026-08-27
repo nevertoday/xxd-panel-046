@@ -50,12 +50,12 @@
     <td width="50%"><a href="https://x.com/xiaoxiaodong01/status/2091337011403882991"><img src="./assets/examples/sample-04.jpg" alt="نموذج XXD Panel 046 رقم 4"></a></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="./assets/examples/sample-05.png" alt="XXD Panel 046 نموذج 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-05.png" alt="XXD Panel 046 نموذج 5"></td>
+    <td width="50%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 046 نموذج 6"></td>
   </tr>
   <tr>
-    <td width="33%"><img src="./assets/examples/sample-06.png" alt="XXD Panel 046 نموذج 6"></td>
-    <td width="33%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 046 نموذج 7"></td>
-    <td width="33%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 046 نموذج 8"></td>
+    <td width="50%"><img src="./assets/examples/sample-07.png" alt="XXD Panel 046 نموذج 7"></td>
+    <td width="50%"><img src="./assets/examples/sample-08.png" alt="XXD Panel 046 نموذج 8"></td>
   </tr>
 </table>
 
