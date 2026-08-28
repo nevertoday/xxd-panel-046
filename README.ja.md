@@ -64,6 +64,21 @@
   </tr>
 </table>
 
+## 追加 3:4 上下構成作例
+
+上の 16:9 作例と同じ4点の独立素材を、完全な 3:4 上下構成として再生成しました。上部は現実の写真を保ち、下部は Panel 046 の原文プロンプトに従って再構成しています。英語コピーは各写真の内容・空気・含意だけから生成し、全点を個別に確認しました。
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 046 追加上下作例 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 046 追加上下作例 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 046 追加上下作例 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 046 追加上下作例 4"></td>
+  </tr>
+</table>
+
 > [小小東（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091337011403882991) · 2026年8月23日<br>
 > GPT2 × 厚塗り × 浮現 × 美学プロンプト × VOL.046<br>
 > 油彩の触感を持つ明るい厚塗り。色はより鮮やかに、主体は温白の紙と透明感のある斜めの色面からゆっくり浮かび上がるように現れます。

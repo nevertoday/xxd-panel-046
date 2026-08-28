@@ -64,6 +64,21 @@
   </tr>
 </table>
 
+## 추가 3:4 상하 구성 예시
+
+위 16:9 예시와 같은 네 개의 독립 소스를 완전한 3:4 상하 캔버스로 다시 생성했습니다. 위쪽은 현실 사진을 유지하고 아래쪽은 Panel 046의 원본 프롬프트에 따라 재구성합니다. 영어 문구는 각 사진의 내용·분위기·함의에서만 생성했으며 모든 결과를 개별 검수했습니다.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 046 추가 상하 예시 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 046 추가 상하 예시 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 046 추가 상하 예시 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 046 추가 상하 예시 4"></td>
+  </tr>
+</table>
+
 > [샤오샤오둥（@xiaoxiaodong01）](https://x.com/xiaoxiaodong01/status/2091337011403882991) · 2026년 8월 23일<br>
 > GPT2 × 임파스토 × 떠오르는 형상 × 미학 프롬프트 × VOL.046<br>
 > 유화의 촉감을 품은 밝은 임파스토 스타일입니다. 색은 더 생생하고, 주제는 따뜻한 백색 종이와 투명한 대각선 색면에서 천천히 떠오르는 듯 보입니다.

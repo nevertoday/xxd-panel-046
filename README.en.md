@@ -64,6 +64,21 @@ Check the samples below if you want to feel out the aesthetic. If you are ready,
   </tr>
 </table>
 
+## Additional 3:4 Top–Bottom Samples
+
+These four works reuse the same four independent sources as the 16:9 set above, now regenerated as complete 3:4 top–bottom canvases. The reality photograph stays above; the lower design follows Panel 046's original brief. English copy is generated only from each photograph's content, mood, or implication, and every result was individually reviewed.
+
+<table>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-09.png" alt="XXD Panel 046 additional top-bottom sample 1"></td>
+    <td width="50%"><img src="./assets/examples/sample-10.png" alt="XXD Panel 046 additional top-bottom sample 2"></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="./assets/examples/sample-11.png" alt="XXD Panel 046 additional top-bottom sample 3"></td>
+    <td width="50%"><img src="./assets/examples/sample-12.png" alt="XXD Panel 046 additional top-bottom sample 4"></td>
+  </tr>
+</table>
+
 > [Xiaoxiaodong (@xiaoxiaodong01)](https://x.com/xiaoxiaodong01/status/2091337011403882991) · 23 August 2026<br>
 > GPT2 × impasto × emerging forms × aesthetic prompt × VOL.046<br>
 > A luminous impasto treatment with an oil-painted touch: fresher colour, tactile miniature volume, and subjects that seem to emerge from warm-white paper and a clear diagonal field.
