@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 046
+# 🦁 XXD Panel 046｜厚涂微世界
 
 ### 把照片重构成一座明亮、鲜活、可以触摸的厚涂微景观
 

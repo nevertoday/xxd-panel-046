@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# 🦁 XXD Panel 046
+# 🦁 XXD Panel 046｜Impasto Micro-World
 
 ### Rebuild a photograph as a bright, vivid, tactile impasto micro-landscape
 
