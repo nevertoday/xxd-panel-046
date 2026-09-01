@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="./assets/banner.svg" alt="لافتة مشروع XXD Panel 046" width="1200">
-</p>
-
 <div align="center" dir="rtl">
 
 # 🦁 XXD Panel 046｜عالم مصغّر بطلاء سميك
@@ -322,7 +318,6 @@ xxd-panel-046/
 ├── SKILL.md
 ├── README.md / README.en.md / README.ja.md / README.ko.md / README.ar.md
 ├── agents/openai.yaml
-├── assets/banner.svg + examples/ (محجوز لنماذج محلية مستقبلية)
 ├── scripts/compose_panel.py + configured_imagegen.py
 └── references/xxd-panel-046-prompt.zh-CN.md + xxd-panel-046-prompt.en.md + 046-source.md
 ```
