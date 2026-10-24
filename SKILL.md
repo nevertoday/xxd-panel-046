@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-046
-description: "Create XXD Panel 046 raster artwork from one image or a directory batch while treating the bundled original style brief as the sole aesthetic authority. Supports one or more top-bottom, left-right, design-only, and four-device wallpaper outputs; multiple ratios or exact sizes; prompt-generated, user-exact, or text-free typography; and inline parameters. Use when the user invokes xxd-panel-046 or requests the exact Panel 046 style."
+description: "XXD Panel 046｜Impasto Micro-World: rebuilds the photo's subject as a small, tactile 3D miniature painted in thick impasto oil, standing on one clear diagonal band of thick paint — water, ground, a path or a strip of light — across bright white textured paper with wide whitespace, with reflections, ripples or light spots where they fit and only a few impasto clouds, a sun or mist behind. Visible paint ridges and palette-knife marks; bright, fresh colours (sky blue, lake teal, fresh green, warm yellow, coral, peach) drawn from the photo. A short title with a little small text. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-046 or asks for impasto oil miniature landscapes, thick-paint 3D illustration or bright healing micro-scenes from a photo."
 ---
 
 # XXD Panel 046

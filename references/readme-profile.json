@@ -1,0 +1,84 @@
+{
+  "skill_description": "XXD Panel 046｜Impasto Micro-World: rebuilds the photo's subject as a small, tactile 3D miniature painted in thick impasto oil, standing on one clear diagonal band of thick paint — water, ground, a path or a strip of light — across bright white textured paper with wide whitespace, with reflections, ripples or light spots where they fit and only a few impasto clouds, a sun or mist behind. Visible paint ridges and palette-knife marks; bright, fresh colours (sky blue, lake teal, fresh green, warm yellow, coral, peach) drawn from the photo. A short title with a little small text. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-046 or asks for impasto oil miniature landscapes, thick-paint 3D illustration or bright healing micro-scenes from a photo.",
+  "short_description": "厚涂微世界：把照片主体做成厚涂油彩微缩景观，立在白纸上一条明亮的斜向色带上",
+  "zh-CN": {
+    "name": "厚涂微世界",
+    "tagline": "把照片重构成一座明亮、鲜活、摸得到颜料厚度的厚涂微景观。",
+    "look": "主体变成一件精致立体的微缩景观，用厚涂油彩塑造，看得见颜料堆积、刮刀痕和起伏边缘。它立在明亮白色纹理纸上的一条斜向厚涂色带上，色带可以是水面、地面、小路或一道光，主体旁有倒影、波纹或光斑；背景只有几朵厚涂的云、一个太阳或一层薄雾，四周大片留白。颜色从照片里挑最明亮鲜活的几种，提亮成天空蓝、湖水青、嫩绿、暖黄、珊瑚橙这类清爽色。文字是一个简短标题加一点小字，沿色带或留白排列。",
+    "traits": ["厚涂", "微缩实体", "斜向色带", "白底", "温暖光感"],
+    "good": [
+      "能做成小模型的主体：一座小屋、一艘小船、一棵树、一座桥",
+      "有水、路或光的场景：湖边、海岸、林间小道、日落",
+      "想做成明亮治愈的海报、旅行纪念或壁纸的照片"
+    ],
+    "poor": [
+      "阴暗、低沉或要保留昏暗气氛的照片，这套风格会把颜色提亮",
+      "人很多、需要认出每个人长相的照片",
+      "想要灰调莫兰迪、做旧暗褐、卡通玩具或光滑塑料 CG 的效果"
+    ]
+  },
+  "en": {
+    "name": "Impasto Micro-World",
+    "tagline": "Rebuilds your photo as a bright, lively miniature landscape you can almost feel the thick paint of.",
+    "look": "The subject becomes a finely made 3D miniature sculpted in thick impasto oil, with visible paint ridges, palette-knife marks and raised edges. It stands on one diagonal band of thick paint across bright white textured paper, the band reading as water, ground, a path or a beam of light, with reflections, ripples or spots of light around the subject; behind it there are only a few impasto clouds, a sun or a little mist, and wide white space all around. The brightest, liveliest colours in the photo are lifted into fresh tones such as sky blue, lake teal, fresh green, warm yellow and coral. Text is a short title and a little small type along the band or in the open space.",
+    "traits": ["Impasto", "Miniature object", "Diagonal colour band", "White ground", "Warm light"],
+    "good": [
+      "Subjects that work as a small model: a cottage, a little boat, a tree, a bridge",
+      "Scenes with water, a road or light: a lakeside, a coastline, a forest path, a sunset",
+      "Photos you want as a bright, soothing poster, a travel keepsake or a wallpaper"
+    ],
+    "poor": [
+      "Dark, heavy photos whose gloomy mood must stay, since the style brightens colour",
+      "Crowded photos where every face must be recognised",
+      "Requests for grey Morandi tones, aged brown filters, cartoon toys or glossy plastic CG"
+    ]
+  },
+  "ja": {
+    "name": "厚塗りミニ世界",
+    "tagline": "写真を、明るく生き生きとして、絵の具の厚みが感じられる厚塗りのミニチュア風景に組み直します。",
+    "look": "主役は精巧な立体のミニチュア風景になり、厚塗りの油絵の具で形づくられます。絵の具の盛り上がり、ペインティングナイフの跡、起伏のある縁が見えます。明るい白の質感ある紙の上を斜めに走る厚塗りの色帯の上に立ち、色帯は水面、地面、小道、一筋の光として読めて、主役のそばには映り込み、波紋、光の粒があります。背景は厚塗りの雲がいくつか、太陽、薄い霧だけで、まわりは大きく余白をとります。色は写真でいちばん明るく生き生きした色を選び、空色、湖の青緑、若草色、暖かい黄、珊瑚色のような爽やかな色に明るくします。文字は短いタイトルと少しの小さな文字で、色帯や余白に沿って置きます。",
+    "traits": ["厚塗り", "ミニチュアの実体", "斜めの色帯", "白い地", "温かな光"],
+    "good": [
+      "小さな模型にできる主役：小屋、小舟、一本の木、橋",
+      "水、道、光のある場面：湖畔、海岸、林の小道、夕日",
+      "明るく癒されるポスター、旅の記念、壁紙にしたい写真"
+    ],
+    "poor": [
+      "暗く重い写真で、その陰りを残したい場合（このスタイルは色を明るくします）",
+      "人が多く、一人ひとりの顔を見分ける必要がある写真",
+      "灰色がかったモランディ調、古びた茶色のフィルター、キャラクター玩具、つるっとしたプラスチックの CG を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "임파스토 미니 월드",
+    "tagline": "사진을 밝고 생기 있으며 물감 두께가 느껴지는 임파스토 미니어처 풍경으로 다시 만듭니다.",
+    "look": "주인공은 두꺼운 임파스토 유화로 빚은 정교한 입체 미니어처 풍경이 되어, 물감이 쌓인 자국, 나이프 자국, 울퉁불퉁한 가장자리가 보입니다. 밝은 흰색 질감 종이 위를 비스듬히 가로지르는 두꺼운 색띠 위에 서 있고, 색띠는 수면, 땅, 오솔길, 한 줄기 빛으로 읽히며 주인공 곁에 반영, 물결, 빛 조각이 생깁니다. 배경에는 두껍게 칠한 구름 몇 점, 해, 옅은 안개만 있고 주변은 넓게 비워 둡니다. 색은 사진에서 가장 밝고 생기 있는 색을 골라 하늘색, 호수 청록, 연두, 따뜻한 노랑, 산호색 같은 산뜻한 색으로 밝힙니다. 글자는 짧은 제목과 약간의 작은 글자로, 색띠나 여백을 따라 놓입니다.",
+    "traits": ["임파스토", "미니어처 실체", "사선 색띠", "흰 바탕", "따뜻한 빛"],
+    "good": [
+      "작은 모형으로 만들기 좋은 주인공: 오두막, 작은 배, 나무 한 그루, 다리",
+      "물이나 길, 빛이 있는 장면: 호숫가, 해안, 숲길, 해 질 녘",
+      "밝고 위로가 되는 포스터, 여행 기념, 배경화면으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "어둡고 무거운 분위기를 그대로 남겨야 하는 사진(이 스타일은 색을 밝게 바꿉니다)",
+      "사람이 많고 한 사람 한 사람의 얼굴을 알아봐야 하는 사진",
+      "회색빛 모란디 톤, 낡은 갈색 필터, 캐릭터 장난감, 매끈한 플라스틱 CG를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "عالم مصغّر بطلاء سميك",
+    "tagline": "يعيد بناء صورتك منظراً مصغّراً مشرقاً نابضاً تكاد تلمس سماكة طلائه.",
+    "look": "يصبح الموضوع مجسماً مصغّراً ثلاثي الأبعاد مشغولاً بعناية بطلاء زيتي كثيف، تظهر فيه نتوءات الطلاء وآثار سكين الرسم والحواف البارزة. يقف على شريط مائل واحد من الطلاء الكثيف يعبر ورقاً أبيض ناصعاً ذا ملمس، يُقرأ ماءً أو أرضاً أو ممراً أو شعاع ضوء، مع انعكاسات أو تموجات أو بقع ضوء حول الموضوع، ولا يظهر خلفه إلا بضع سحب كثيفة الطلاء أو شمس أو قليل من الضباب، مع فراغ أبيض واسع حوله. تُرفع أكثر ألوان الصورة إشراقاً وحيوية إلى درجات منعشة مثل أزرق السماء وأخضر البحيرة المزرق والأخضر الطري والأصفر الدافئ والمرجاني. النص عنوان قصير وقليل من الكتابة الصغيرة على امتداد الشريط أو في الفراغ.",
+    "traits": ["طلاء كثيف", "مجسم مصغّر", "شريط لوني مائل", "أرضية بيضاء", "ضوء دافئ"],
+    "good": [
+      "موضوعات تصلح نموذجاً صغيراً: كوخ، قارب صغير، شجرة، جسر",
+      "مشاهد فيها ماء أو طريق أو ضوء: ضفة بحيرة، ساحل، ممر في غابة، غروب",
+      "صور تريدها ملصقاً مشرقاً مريحاً أو تذكار سفر أو خلفية"
+    ],
+    "poor": [
+      "صور قاتمة ثقيلة يجب أن يبقى جوها المعتم، لأن الأسلوب يرفع إشراق الألوان",
+      "صور مزدحمة يجب فيها تمييز كل وجه",
+      "طلب درجات موراندي الرمادية أو مرشحات بنية معتّقة أو ألعاب كرتونية أو مجسمات بلاستيكية لامعة"
+    ]
+  }
+}
